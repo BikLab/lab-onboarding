@@ -1,1 +1,1 @@
-# Welcome
+# Welcome to the [Bik Lab](https://biklab.github.io/) at [UC Riverside](http://www.ucr.edu/)!
