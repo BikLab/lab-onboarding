@@ -1,11 +1,10 @@
 ### Welcome to the [Bik Lab](https://biklab.github.io/) at [UC Riverside](http://www.ucr.edu/)!
 
-This github repo is a compilation of valuable resources with which new lab members should familiarize themselves. 
+This github repo is a compilation of valuable resources for new Bik lab members.
+Below is an overview of the types of resources posted in the repo.
 
-Before you delve into science and other important things, please look over the following recommendations.
-
-1. **The internet is your best friend but it can be mean to you every now and then**
-	* Most (bio)informaticy questions you'll have can be answered online. Always search the web first but if your best friend isn't being kind and helpful, then ask a human being.
+1. **Introduction to (meta)genomics and more**
+	* Our lab utilized the ***-omics*** approch to study the meiofaunal biodiversity that exists in marine environments and other ecosystems. We highly recommend watching a series of tutorial  
 
 2. **Save your commands!**
 	* After you become an expert command line user, don't become complacent. Always save the commands you ran for the day and/or a quick summary of what you did. We recommend using [GitHub](https://github.com/) for saving commands and an online tool like [Evernote](https://evernote.com/) for keeping track of daily accomplishments.
