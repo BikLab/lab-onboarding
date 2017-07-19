@@ -1,6 +1,6 @@
 ### Welcome to the [Bik Lab](https://biklab.github.io/) at [UC Riverside](http://www.ucr.edu/)!
 
-This github repo is a compilation of valuable resources for new Bik lab members. Our lab utilized the ***-omics*** approch to study the meiofaunal biodiversity and evolution in marine environments and other ecosystems. 
+This github repo is a compilation of valuable resources for new Bik lab members. Our lab utilizes ***-omics*** and computational biology approaches to study the microbial eukaryote biodiversity and evolution in marine environments and other ecosystems. 
 
 Below is a short list of tutorials we recommend you review to get comfortable with nagivating the Linux environment. 
 
