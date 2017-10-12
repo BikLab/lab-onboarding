@@ -1,9 +1,0 @@
-##Fire Safety
-
-In compliance with the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act, the UC Riverside Annual Security and Fire Safety Report is now available on the University of California Police Department at Riverside website. [This report is a combined security and fire report that is available here as a single PDF document.](http://police.ucr.edu/clery/clery.html)
-
-The report provides statistics for certain crimes reported over the previous three years which occurred on campus, in or on non-campus buildings or property owned or controlled by the university, or on public property immediately adjacent to and accessible from the main campus. This report also contains information pertaining to campus safety and security; alcohol and drug policies; missing person reports; crime prevention; information on dating violence, domestic violence, sexual assault and stalking prevention; and procedures for campus timely warning notifications and emergency response and evacuation. This report also includes fire safety information and statistics concerning on-campus student housing facility fires, fire drills and fire safety education and training.
-
-All members of the UC Riverside community are encouraged to immediately report crimes to the University of California Police Department at Riverside. Emergencies or situations that may pose an immediate or ongoing threat to the health and safety of our students, employees and visitors should immediately be reported by dialing 9-1-1 from a campus or mobile phone, or by using one of the emergency call boxes located in the parking areas. **For non-emergencies, please call (951) 827-5222**.
-
-Hard copies of the 2017 Annual Security and Fire Safety Report may be obtained by contacting the University of California Police Department at Riverside at (951) 827-7285 or in person at our station which is located at 3500 Canyon Crest Drive Riverside, Ca 92521.
