@@ -1,3 +1,16 @@
+##UCR Core Facilities
+
+**IIGB Genomics Core**
+ 
+To improve the efficiency of services in support of your UCR research and improve communications with our staff, please direct inquiries regarding Illumina, Sanger or PacBio sequencing needs to our main email address:
+
+gencore@ucr.edu
+ 
+For questions about your specific projects you may also contact:
+
+* Clay Clark - clay.clark@ucr.edu
+* Holly Clark - holly.eckelhoefer@ucr.edu
+* Glenn Hicks (core facility director) - ghicks@ucr.edu
 
 ##Grants and Funding
 
@@ -49,6 +62,14 @@ at [https://research.ucr.edu/about/forms/research-integrity-forms.aspx](https://
 patenting inventions, licensing technology and forming companies.   See
 <https://www.ucreduotp.net/> https://www.ucreduotp.net/ for me information
 and details.
+
+##Harassment and Discrmination
+
+**Diversity and Inclusion Academic Liaison (DIAL)**
+
+DIAL officer position is currently supported by the UCR Graduate Division and functions as a Teaching Assistantship or Graduate Student Researcher appointment, in collaboration with a steering committee coordinated by the Office of Diversity and Inclusion.  The DIAL works with graduate and professional student peers, faculty, and staff upon request on issues relating to harassment, discrimination, equity and inclusion within the graduate student community and across various departments.  In doing so, the DIAL partners with various campus resources, including our race, ethnicity and gender based programs in Student Affairs, the Campus Advocacy Resources & Education (CARE) Office, our Academic Senate Committee on Diversity and Equal Opportunity (CoDEO), and Diversity & Inclusion Office, in order to improve campus climate, with a particular focus on graduate students. 
+
+The DIAL is available to meet directly with students who would like to discuss any issues related to diversity, equity and/or inclusion at UCR. Students may drop by during office hours or they may make an appointment with the DIAL by emailing: **GSADIAL@ucr.edu**.
 
 
 ##Disability Resources at UCR
