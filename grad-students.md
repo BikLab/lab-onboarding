@@ -1,10 +1,12 @@
 ### Graduate Students
 
+(HB = Holly Bik, Lab PI)
+
 ### Getting Started in the Bik Lab
 
 First, make sure you are familiar with our research - make sure you read the "Research" page of the Lab Website, to familariize yourself with research themes and our ongoing projects: [https://biklab.github.io/projects/](https://biklab.github.io/projects/)
 
-Please also make sure you have completed all Lab Safety trainings, if you have not already done so. See the list of required modules on the main lab onboarding page: 
+Please also make sure you have completed all Lab Safety trainings, if you have not already done so. See the list of required modules on the main lab onboarding page: [https://github.com/BikLab/lab-onboarding/blob/master/new-employee-tasks.md](https://github.com/BikLab/lab-onboarding/blob/master/new-employee-tasks.md) 
 
 #### Bioinformatics training
 
