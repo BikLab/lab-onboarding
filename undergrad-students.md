@@ -10,7 +10,7 @@ Our lab has a limited number spaces for undergraduate students. We accept studen
 
 * Our lab aims to equip students with an interdisciplinary skill set, particularly emphasizing computational skill dvelopment alongside traditional molecular lab tasks. Command line training is difficult and requires perserverence. Complete these tutorials to get started:
 	* [Indtroduction to the Command Line (Unix Shell)](http://swcarpentry.github.io/shell-novice/)
-	* [QIIME introductory tutorial (based on 16S bacterial data from the human microbiome)](http://nbviewer.jupyter.org/github/biocore/qiime/blob/1.9.1/examples/ipynb/illumina_overview_tutorial.ipynb)
+	* [QIIME2 introductory tutorial](https://docs.qiime2.org/2017.12/tutorials/moving-pictures/) - "Moving pictures of the human microbiome" (16S rRNA amplicon dataset that takes you through data processing, OTU picking, and ecological diversity analyses)
 	* Our lab-specific QIIME tutorial (for 18S eukaryotic data, which is similar but some steps are slightly different, such as the databases you're using to assign taxonomy to DNA sequences): 
 		* [Explanatory slides](https://www.dropbox.com/s/07k5ve9gehfwi9j/QIIME-workshop-slides-HBik.pdf?dl=0)
 		* [18S rRNA Tutorial with data files](https://github.com/BikLab/BITMaB-workshop/blob/master/QIIME-metabarcoding-tutorial.md)
