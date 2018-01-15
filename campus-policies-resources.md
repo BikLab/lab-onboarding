@@ -1,3 +1,11 @@
+
+##Lab Issues (Facilities or Safety)
+
+For facilities/building-related issues (e.g., leaking pipe), please call Facilities Services (Physical Plant) at 951-827-4214 between 8:00 am and 5:00 pm during weekdays, and 951-827-4677 off-hours after 5:00 pm/weekdays and on weekends.
+
+For lab/research safety-related issues (e.g., chemical accident), please contact EH&S at 951-827-5528 between 8:00 am and 5:00 pm on weekdays. For after-hours emergencies, call the campus police department at 911 (on campus/off campus). 
+
+
 ##UCR Core Facilities
 
 **IIGB Genomics Core**
