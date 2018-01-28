@@ -2,7 +2,7 @@
 
 **Lab Mission Statement**: 
 
-1. To perform cutting-edge research at the interface of biological and computational sciences and being leaders in the field of ecological and evolutionary -Omics approaches focused on microbial eukaryotes in marine sediments (with an emphasis on free-living nematodes and deep-sea habitats). 
+1. To perform cutting-edge research at the interface of biological and computational sciences; being leaders in the field of ecological and evolutionary -Omics approaches focused on microbial eukaryotes in marine sediments (with an emphasis on free-living nematodes and deep-sea habitats). 
 2. To ensure that all lab members become well-rounded scientists with sufficient training and expertise that will allow them to succeed in their chosen career path. This will be accomplished by professional development that focuses on: effective written, verbal  and visual communication skills; bioinformatics and programming skills; experience in project managment; scientific outreach and education; fostering relationships with policymakers and stakeholders.
 
 **Core Values**: Exploring innovative and cross-discipinary science, creativity, teamwork, research excellence, practicing open science, communicating our technical knowledge and scientific results to non-scientists
