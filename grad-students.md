@@ -4,7 +4,7 @@
 
 ### Getting Started in the Bik Lab
 
-First, make sure you are familiar with our research - make sure you read the "Research" page of the Lab Website, to familariize yourself with research themes and our ongoing projects: [https://biklab.github.io/projects/](https://biklab.github.io/projects/)
+First, make sure you are familiar with our research - make sure you read the "Research" page of the Lab Website, to familariize yourself with research themes and our ongoing projects: [https://www.biklab.org/research](https://www.biklab.org/research)
 
 Please also make sure you have completed all Lab Safety trainings, if you have not already done so. See the list of required modules on the main lab onboarding page: [https://github.com/BikLab/lab-onboarding/blob/master/new-employee-tasks.md](https://github.com/BikLab/lab-onboarding/blob/master/new-employee-tasks.md) 
 
@@ -27,8 +27,8 @@ Students are also expected to read the scientific literature, and think conceptu
 
 Here are some review papers and references related to the work we do in the lab - it's a good idea to read these first:
 
-* Creer et al. (2016) [The ecologists field guide to sequenced-based identification of biodiversity](https://biklab.github.io/assets/pdfs/Creer-etal-2016-MEE-EcolFieldGuide.pdf) _Methods in Ecology and Evolution_
-* Bik et al. (2012) [Sequencing our way to understanding global eukaryotic biodiversity](https://biklab.github.io/assets/pdfs/Bik-2012-TREE-EukReview.pdf), _Trends in Ecology and Evolution_
+* Creer et al. (2016) [The ecologists field guide to sequenced-based identification of biodiversity](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.12574) _Methods in Ecology and Evolution_
+* Bik et al. (2012) [Sequencing our way to understanding global eukaryotic biodiversity](https://github.com/BikLab/lab-onboarding/raw/master/lab-publications/2012-Bik-TREE-EukReview.pdf), _Trends in Ecology and Evolution_
 
 The above review papers are just a starting point - for every reserach area mentioned in these papers you should be looking at the cited references (big list of journal articles referred to by author/number and listed at the end of the paper). Review papers only summarize what others have found; the real work is published in the primary literature (original hypothesis-driven reserach studies).
 
